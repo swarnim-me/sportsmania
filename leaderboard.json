@@ -1,0 +1,44 @@
+{
+    "poolA": [
+        "team1",
+        "team2",
+        "team3",
+        "team4",
+        "team5"
+    ],
+    "poolB": [
+        "team1",
+        "team2",
+        "team3",
+        "team4",
+        "team5"
+    ],
+    "poolC": [
+        "team1",
+        "team2",
+        "team3",
+        "team4",
+        "team5"
+    ],
+    "poolD": [
+        "team1",
+        "team2",
+        "team3",
+        "team4",
+        "team5"
+    ],
+    "poolE": [
+        "team1",
+        "team2",
+        "team3",
+        "team4",
+        "team5"
+    ],
+    "poolF": [
+        "team1",
+        "team2",
+        "team3",
+        "team4",
+        "team5"
+    ]
+}
