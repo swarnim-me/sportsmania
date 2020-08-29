@@ -7,11 +7,11 @@
         "team4"
     ],
     "poolB": [
-        "team1",
         "team2",
+        "team1",
         "team3",
-        "team4",
-        "team5"
+        "team5",
+        "team4"
     ],
     "poolC": [
         "team1",
