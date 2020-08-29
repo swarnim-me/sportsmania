@@ -1,10 +1,10 @@
 {
     "poolA": [
-        "team1",
-        "team2",
+        "team5",
         "team3",
-        "team4",
-        "team5"
+        "team2",
+        "team1",
+        "team4"
     ],
     "poolB": [
         "team1",
